@@ -1,4 +1,6 @@
-<p align="left">Hello im wag!!!! 15yo dev from 🇫🇮</p>
+<p align="left">Hello im wag!!!!</p>
+
+### 15yo dev from 🇫🇮
 
 ###
 
