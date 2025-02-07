@@ -1,6 +1,6 @@
 <p align="left">Hello im wag!!!!</p>
 
-### 15yo dev from 🇫🇮
+### xyz y/o dev from [insert obvious detrace]
 
 ###
 
